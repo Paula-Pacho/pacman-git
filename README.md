@@ -4,4 +4,9 @@ Pac-Man és un emblemàtic videojoc d'acció arcade desenvolupat per Namco i lla
 
 ---
 
-**Autor/a:** [Paula](https://github.com/Paula-Pacho/pacman-git)
+## Enllaç per jugar online: 
+https://pacmangratis.net/ 
+
+---
+
+**Autora:** [Paula](https://github.com/Paula-Pacho/pacman-git)
