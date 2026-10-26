@@ -11,4 +11,12 @@ https://pacmangratis.net/
 
 ---
 
+- [Enllaç al document blinky.md](blinky.md)
+- [Enllaç al document inky.md](inky.md)
+- [Enllaç al document clyde.md](clyde.md)
+- [Enllaç al document pinky.md](pinky.md)
+
+
+---
+
 **Autora:** [Paula](https://github.com/Paula-Pacho/pacman-git)
