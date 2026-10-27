@@ -1,1 +1,15 @@
+# VS Code
 .vscode/
+
+# macOS
+.DS_Store
+._*
+
+# Fitxers temporals i de còpia de seguretat
+*.tmp
+*.temp
+*.swp
+*~
+
+# Logs
+*.log
